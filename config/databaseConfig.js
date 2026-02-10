@@ -15,3 +15,14 @@ const connectDB = async () => {
 };
 
 export { sequelize, connectDB };
+
+
+
+// PORT = 5000
+// DB_HOST=localhost
+// DB_USER=root
+// DB_PASS=1234
+// DB_NAME=mikikaida
+// JWT_SECRET=skylabs-secret-key-2025
+// EMAIL_USER = singhshelendra70@gmail.com
+// EMAIL_PASS =ddxypkerjxsapzzc
